@@ -1,4 +1,4 @@
-# 🚀 NodePulse - Node.js Monitoring & Observability Stack
+# 🚀 MonitorX - Node.js Monitoring & Observability Stack
 
 A complete monitoring and observability project built with **Node.js**, **Prometheus**, **Grafana**, **Loki**, **Winston**, and **Docker**.
 
@@ -159,13 +159,13 @@ grafana/loki
 
 ## Metrics Dashboard
 
-![Dashboard](snapshots/Grafana_Dashboard.png)
+![Dashboard](Snapshots/Grafana_Dashboard.png)
 
 ---
 
 ## Logs Dashboard
 
-![Logs](snapshots/loki_logs.png)
+![Logs](Snapshots/loki_logs.png)
 
 ---
 
