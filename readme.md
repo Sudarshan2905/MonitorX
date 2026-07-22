@@ -165,7 +165,7 @@ grafana/loki
 
 ## Logs Dashboard
 
-![Logs](Snapshots/loki_logs.png)
+![Logs](Snapshots/Loki_Logs.png)
 
 ---
 
